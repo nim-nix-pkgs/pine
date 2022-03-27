@@ -11,6 +11,7 @@
   inputs.src-pine-master.ref   = "refs/heads/master";
   inputs.src-pine-master.owner = "Willyboar";
   inputs.src-pine-master.repo  = "pine";
+  inputs.src-pine-master.dir   = "";
   inputs.src-pine-master.type  = "github";
   
   inputs."markdown".owner = "nim-nix-pkgs";

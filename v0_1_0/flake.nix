@@ -11,6 +11,7 @@
   inputs.src-pine-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-pine-v0_1_0.owner = "Willyboar";
   inputs.src-pine-v0_1_0.repo  = "pine";
+  inputs.src-pine-v0_1_0.dir   = "";
   inputs.src-pine-v0_1_0.type  = "github";
   
   inputs."markdown".owner = "nim-nix-pkgs";
